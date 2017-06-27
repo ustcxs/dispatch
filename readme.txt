@@ -16,4 +16,4 @@ Git
 \f1\b \cf4 is
 \f0\b0 \cf2  free software distributed under the GPL.\
 Git has a mutable index called stage.\
-Git tracks changes of files}
+Git tracks changes of files in desk}
